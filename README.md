@@ -95,7 +95,7 @@ This project is open source and available under the MIT License.
 ## 📞 Support & Contact
 
 For any questions, issues, or suggestions, please contact us:
-- **Email:** shakirmhussain@gmail.com
+- **Email:** shakirmhussain12@gmail.com
 - **GitHub:** [mh3210152-web](https://github.com/mh3210152-web)
 
 ## 🎯 Roadmap
